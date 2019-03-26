@@ -1,0 +1,16 @@
+Source
+
+Udacity courses: 
+
+Lessons of Note
+
+Section 2 Data Types and Operators
+
+Section 4 lesson 
+
+Hypothesis Testing
+A/B tests
+Logistic Regression
+
+Additional Resources
+https://www.statsmodels.org/dev/generated/statsmodels.stats.proportion.proportions_ztest.html
